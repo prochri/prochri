@@ -5,7 +5,7 @@ I am interested in:
 - Self-Hosting
 - Linux
 - [Home Assistant](https://www.home-assistant.io/)
-- Neovim
+- [Neovim](https://github.com/neovim/neovim)
 
 I enjoy learning new programming languages and concepts.
 
