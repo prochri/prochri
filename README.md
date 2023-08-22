@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am interested in:
+- Networking
+- Self-Hosting
+- Linux
+- [Home Assistant](https://www.home-assistant.io/)
+- Neovim
+
+I enjoy learning new programming languages and concepts.
+
 <!--
 **prochri/prochri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
